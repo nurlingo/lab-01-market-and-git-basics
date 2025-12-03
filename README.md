@@ -36,8 +36,7 @@ By the end of this lab you should be able to:
 
 ## Repo structure
 
-- `LAB_STORY.md` – narrative context for this lab.
-- `TASKS.md` – concrete tasks you must complete.
+- `LAB_STORY.md` – narrative context for this lab and concrete tasks you must complete.
 - `.github/ISSUE_TEMPLATE` – templates for your issues.
 - `.github/pull_request_template.md` – checklist for PRs.
 - `src/` – place for any code/scripts/config.
